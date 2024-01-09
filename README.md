@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar Logo">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Logo">&nbsp;
+<img src="https://img.shields.io/badge/Figma-00a081?style=for-the-badge&logo=figma&logoColor=white" alt="CSS3 Logo">&nbsp;
 
 ### Secondary Stack:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo">&nbsp;
@@ -20,7 +21,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo">&nbsp;
 
 ### Workstation Tools:
-<img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode Logo">&nbsp;
+<img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Logo">&nbsp;
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo">&nbsp;
 <img src="https://img.shields.io/badge/Pop_OS-48B9C7?style=for-the-badge&logo=system76&logoColor=white" alt="PopOS Logo">&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo">&nbsp;
