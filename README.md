@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo">&nbsp;
 <img src="https://img.shields.io/badge/Pop_OS-48B9C7?style=for-the-badge&logo=system76&logoColor=white" alt="PopOS Logo">&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo">&nbsp;
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" alt="Postman Logo">&nbsp;
 
+  
   
   ## Contacts:
   <a href="https://www.linkedin.com/in/jonatas-lima-a001691a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
