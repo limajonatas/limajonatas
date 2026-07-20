@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+Vindo!+:%29;Hello,+Welcome!+:%29;Hola,+bienvenido!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
+  
   ### Main Stack:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Logo">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo">&nbsp;
